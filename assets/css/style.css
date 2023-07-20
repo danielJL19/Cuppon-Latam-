@@ -1,0 +1,20 @@
+:root{
+    --blackColor: #212529;
+    --grayColor: #707070;
+    --lightColor: #F8F9FA;
+    --whiteColor: #fff;
+    --greenColor: #28a745;
+    --fontFamily: 'Roboto', sans-serif;
+}
+.bg-green{
+    background-color: var(--greenColor);
+}
+.logo{
+    width: 8rem;
+}
+.color-green{
+    color: var(--greenColor);
+}
+.color-gray{
+    color: var(--grayColor);
+}
